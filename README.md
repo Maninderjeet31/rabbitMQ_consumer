@@ -18,6 +18,7 @@
  2.  A peredefined Rabbit MQ producer server with configuration setup (like host, port, username, password) for consumer to subscribe to.
  3.  Simply install the dependencies and run the maven project in IDE.
  4.  Test on postman with url
+
        a. Welcome page - " *http://localhost:8080/api/welcome* "
 
        b. After clicking *send message* button or using url " *http://localhost:8080/api/home* "
